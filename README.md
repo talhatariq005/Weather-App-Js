@@ -3,7 +3,7 @@
 A simple weather app built using HTML, CSS, and JavaScript that fetches real-time weather data using the Feather API.
 
 ## 🚀 Live Demo
-https://talhatariq005.github.io/Weather-App-JS/
+https://talhatariq005.github.io/Weather-App-Js/
 
 ## 📌 Features
 - Search weather by city
